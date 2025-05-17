@@ -45,12 +45,6 @@ As a data analyst, I developed an interactive **Power BI dashboard** to:
 This project was part of the **Resume Project Challenge** by [Codebasics]([https://www.codebasics.io/](https://codebasics.io/challenge/codebasics-resume-project-challenge)).  
 Special thanks to **Dhaval Patel** and the entire Codebasics team for bridging the gap between learning and industry.
 
-## 📁 Project Files
-
-- 📌 `AtliQ_Mart_SC_Dashboard.pbix` - Power BI dashboard file  
-- 📄 `datasets/` - Contains raw and cleaned CSV files used in the analysis  
-- 📄 `README.md` - Project overview and documentation  
-
 ---
 
 ⭐️ If you found this project insightful, feel free to fork, star, or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/hiteshsharma18/))!
