@@ -1,4 +1,4 @@
-# 📦 AtliQ Mart Supply Chain Service Level Analysis
+# 📦 AtliQ Mart Supply Chain Analysis
 
 A real-world data analytics project focused on improving delivery performance for AtliQ Mart, an FMCG manufacturer in India. This project was built as part of the #ResumeProjectChallenge by Codebasics.
 
